@@ -1,0 +1,19 @@
+set realname = "Александр Павлов"
+set from = zoviet@yandex.ru
+set use_from = yes
+
+set imap_user = zoviet@yandex.ru
+set imap_pass = vznyflhsucmbxccgg
+set smtp_url = smtps://zoviet@smtp.yandex.ru:465/
+set smtp_pass = vznyflhsucmbxccgg
+set smtp_authenticators = 'login'
+
+set ssl_starttls = yes
+set ssl_force_tls = yes
+
+set folder = imaps://imap.yandex.ru:993
+set spoolfile = +INBOX
+set postponed = +[Gmail]/Drafts
+set record = =Отправленные
+
+

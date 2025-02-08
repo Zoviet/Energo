@@ -1,11 +1,11 @@
 set realname = "Александр Павлов"
-set from = zoviet@yandex.ru
+set from = zt@yandex.ru
 set use_from = yes
 
-set imap_user = zoviet@yandex.ru
-set imap_pass = vznyflhsucmbxccgg
-set smtp_url = smtps://zoviet@smtp.yandex.ru:465/
-set smtp_pass = vznyflhsucmbxccgg
+set imap_user = zet@yandex.ru
+set imap_pass = 
+set smtp_url = smtps://zet@smtp.yandex.ru:465/
+set smtp_pass = 
 set smtp_authenticators = 'login'
 
 set ssl_starttls = yes

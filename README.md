@@ -5,3 +5,8 @@
 Датчики - sct013 100A
 Звуковые карты - 3D sound
 
+```
+sudo apt install mutt
+sudo apt install sox
+```
+

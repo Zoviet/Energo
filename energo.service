@@ -1,0 +1,11 @@
+[Unit]
+Description=Energo Monitoring Service
+
+[Service]
+User=root
+WorkingDirectory=/var/www/Energo
+ExecStart=bash /var/www/Energo/record.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
